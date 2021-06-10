@@ -1,0 +1,15 @@
+[2021-05-28 17:58:52,920] [test_room_list_page.py:Methond:test_open_room_list_page(34)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-28 17:58:52,920] [test_room_list_page.py:Methond:test_open_room_list_page(35)] [ERROR]:  断言失败，可能原因：open_room_list_page() missing 1 required positional argument: 'url'
+[2021-05-28 18:00:02,175] [test_room_list_page.py:Methond:test_open_room_list_page(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 18:00:12,571] [test_room_list_page.py:Methond:test_open_room_list_page(34)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-28 18:00:12,571] [test_room_list_page.py:Methond:test_open_room_list_page(35)] [ERROR]:  断言失败，可能原因：False is not true
+[2021-05-28 18:04:09,421] [test_room_list_page.py:Methond:test_open_room_list_page(34)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-28 18:04:09,428] [test_room_list_page.py:Methond:test_open_room_list_page(35)] [ERROR]:  断言失败，可能原因：loginpage_loginBusiness() missing 1 required positional argument: 'self'
+[2021-05-28 18:06:01,767] [test_room_list_page.py:Methond:test_open_room_list_page(34)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-28 18:06:01,767] [test_room_list_page.py:Methond:test_open_room_list_page(35)] [ERROR]:  断言失败，可能原因：loginpage_loginBusiness() missing 1 required positional argument: 'self'
+[2021-05-28 18:08:49,464] [test_room_list_page.py:Methond:test_open_room_list_page(34)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-28 18:08:49,464] [test_room_list_page.py:Methond:test_open_room_list_page(35)] [ERROR]:  断言失败，可能原因：loginpage_loginBusiness() missing 1 required positional argument: 'self'
+[2021-05-28 18:16:47,689] [test_room_list_page.py:Methond:test_open_room_list_page(34)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-28 18:16:47,702] [test_room_list_page.py:Methond:test_open_room_list_page(35)] [ERROR]:  断言失败，可能原因：__init__() missing 1 required positional argument: 'driver'
+[2021-05-28 18:20:44,648] [test_room_list_page.py:Methond:test_open_room_list_page(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 18:20:44,670] [test_room_list_page.py:Methond:test_open_room_list_page(32)] [INFO]:  Testcase - > Test PASS !

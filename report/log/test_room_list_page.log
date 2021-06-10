@@ -1,0 +1,4 @@
+[2021-06-10 11:18:50,411] [test_room_list_page.py:Methond:test_create_chatroom(42)] [INFO]:  Testcase - > 开始检验检查点
+[2021-06-10 11:18:50,413] [test_room_list_page.py:Methond:test_create_chatroom(45)] [INFO]:  Testcase - > Test PASS !
+[2021-06-10 11:19:00,818] [test_room_list_page.py:Methond:test_open_room_list_page(30)] [INFO]:  Testcase - > 开始检验检查点
+[2021-06-10 11:19:01,977] [test_room_list_page.py:Methond:test_open_room_list_page(33)] [INFO]:  Testcase - > Test PASS !

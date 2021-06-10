@@ -1,0 +1,88 @@
+[2021-05-31 17:05:40,068] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/login 
+[2021-05-31 17:05:40,137] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="手机号"]
+[2021-05-31 17:05:40,516] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="手机号"]')元素 [输入文本]：13611849759
+[2021-05-31 17:05:40,533] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="密码"]
+[2021-05-31 17:05:40,694] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="密码"]')元素 [输入文本]：123456
+[2021-05-31 17:05:40,757] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="验证码"]
+[2021-05-31 17:05:40,906] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="验证码"]')元素 [输入文本]：1234
+[2021-05-31 17:05:40,925] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->form > button > span
+[2021-05-31 17:05:41,078] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'form > button > span')元素  [点击]
+[2021-05-31 17:05:41,349] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/chatroom/roomlist 
+[2021-05-31 17:05:46,396] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span
+[2021-05-31 18:04:54,915] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/login 
+[2021-05-31 18:04:54,944] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="手机号"]
+[2021-05-31 18:04:55,126] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="手机号"]')元素 [输入文本]：13611849759
+[2021-05-31 18:04:55,145] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="密码"]
+[2021-05-31 18:04:55,241] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="密码"]')元素 [输入文本]：123456
+[2021-05-31 18:04:55,259] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="验证码"]
+[2021-05-31 18:04:55,330] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="验证码"]')元素 [输入文本]：1234
+[2021-05-31 18:04:55,352] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->form > button > span
+[2021-05-31 18:04:55,441] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'form > button > span')元素  [点击]
+[2021-05-31 18:04:55,624] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/chatroom/roomlist 
+[2021-05-31 18:04:56,996] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span
+[2021-05-31 18:04:57,110] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span')元素  [点击]
+[2021-05-31 18:04:58,300] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入房主狗号"]
+[2021-05-31 18:04:58,613] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入房主狗号"]')元素 [输入文本]：1775871
+[2021-05-31 18:04:58,629] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入手机号"]
+[2021-05-31 18:04:58,911] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入手机号"]')元素 [输入文本]：10000003317
+[2021-05-31 18:04:58,928] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入真实姓名"]
+[2021-05-31 18:04:59,050] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入真实姓名"]')元素 [输入文本]：汤鞍山
+[2021-05-31 18:04:59,073] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入身份证号"]
+[2021-05-31 18:04:59,535] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入身份证号"]')元素 [输入文本]：430515195402183212
+[2021-05-31 18:04:59,574] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div:nth-child(5) > div > label:nth-child(13) > span.el-radio__label
+[2021-05-31 18:04:59,660] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div:nth-child(5) > div > label:nth-child(13) > span.el-radio__label')元素  [点击]
+[2021-05-31 18:04:59,741] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div:nth-child(9) > div > label:nth-child(1) > span.el-checkbox__label
+[2021-05-31 18:04:59,971] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div:nth-child(9) > div > label:nth-child(1) > span.el-checkbox__label')元素  [点击]
+[2021-05-31 18:05:10,100] [Base.py:Methond:findElement(61)] [ERROR]:  定位失败->css selector, value值->div:nth-child(10) > div > label:nth-child(1) > span.el-checkbox__label 原因：定位元素超时啦
+[2021-05-31 18:05:10,433] [Base.py:Methond:get_Screenshots(239)] [INFO]:  屏幕截图成功！文件为:/Users/lyg/Desktop/Python/Auto_MesUI/screenshots/20210531_18_04_38.png
+[2021-05-31 18:05:10,732] [Base.py:Methond:get_Screenshots(239)] [INFO]:  屏幕截图成功！文件为:/Users/lyg/Desktop/Python/Auto_MesUI/screenshots/20210531_18_04_38.png
+[2021-05-31 18:05:18,139] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/login 
+[2021-05-31 18:05:18,171] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="手机号"]
+[2021-05-31 18:05:18,349] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="手机号"]')元素 [输入文本]：13611849759
+[2021-05-31 18:05:18,381] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="密码"]
+[2021-05-31 18:05:18,466] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="密码"]')元素 [输入文本]：123456
+[2021-05-31 18:05:18,487] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="验证码"]
+[2021-05-31 18:05:18,554] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="验证码"]')元素 [输入文本]：1234
+[2021-05-31 18:05:18,577] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->form > button > span
+[2021-05-31 18:05:18,681] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'form > button > span')元素  [点击]
+[2021-05-31 18:05:18,842] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/chatroom/roomlist 
+[2021-05-31 18:05:20,122] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span
+[2021-05-31 18:36:20,561] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/login 
+[2021-05-31 18:36:20,596] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="手机号"]
+[2021-05-31 18:36:20,801] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="手机号"]')元素 [输入文本]：13611849759
+[2021-05-31 18:36:20,816] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="密码"]
+[2021-05-31 18:36:20,909] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="密码"]')元素 [输入文本]：123456
+[2021-05-31 18:36:20,924] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="验证码"]
+[2021-05-31 18:36:20,993] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="验证码"]')元素 [输入文本]：1234
+[2021-05-31 18:36:21,008] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->form > button > span
+[2021-05-31 18:36:21,131] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'form > button > span')元素  [点击]
+[2021-05-31 18:36:21,341] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/chatroom/roomlist 
+[2021-05-31 18:36:22,576] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span
+[2021-05-31 18:36:22,817] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span')元素  [点击]
+[2021-05-31 18:36:23,982] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入房主狗号"]
+[2021-05-31 18:36:24,262] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入房主狗号"]')元素 [输入文本]：1775871
+[2021-05-31 18:36:24,280] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入手机号"]
+[2021-05-31 18:36:24,555] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入手机号"]')元素 [输入文本]：10000003317
+[2021-05-31 18:36:24,574] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入真实姓名"]
+[2021-05-31 18:36:24,687] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入真实姓名"]')元素 [输入文本]：汤鞍山
+[2021-05-31 18:36:24,711] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="请输入身份证号"]
+[2021-05-31 18:36:25,069] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="请输入身份证号"]')元素 [输入文本]：430515195402183212
+[2021-05-31 18:36:25,086] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div:nth-child(5) > div > label:nth-child(13) > span.el-radio__label
+[2021-05-31 18:36:25,145] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div:nth-child(5) > div > label:nth-child(13) > span.el-radio__label')元素  [点击]
+[2021-05-31 18:36:25,182] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div:nth-child(9) > div > label:nth-child(1) > span.el-checkbox__label
+[2021-05-31 18:36:25,255] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div:nth-child(9) > div > label:nth-child(1) > span.el-checkbox__label')元素  [点击]
+[2021-05-31 18:36:25,277] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div:nth-child(10) > div > label:nth-child(1) > span.el-radio__label
+[2021-05-31 18:36:25,417] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div:nth-child(10) > div > label:nth-child(1) > span.el-radio__label')元素  [点击]
+[2021-05-31 18:36:30,434] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-dialog__footer > span > button.el-button.el-button--primary.el-button--medium > span
+[2021-05-31 18:36:30,515] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'div.el-dialog__footer > span > button.el-button.el-button--primary.el-button--medium > span')元素  [点击]
+[2021-05-31 18:36:45,417] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/login 
+[2021-05-31 18:36:45,445] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="手机号"]
+[2021-05-31 18:36:45,620] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="手机号"]')元素 [输入文本]：13611849759
+[2021-05-31 18:36:45,640] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="密码"]
+[2021-05-31 18:36:45,726] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="密码"]')元素 [输入文本]：123456
+[2021-05-31 18:36:45,743] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->input[placeholder="验证码"]
+[2021-05-31 18:36:45,805] [Base.py:Methond:sendKeys(147)] [INFO]:  开始对('css selector', 'input[placeholder="验证码"]')元素 [输入文本]：1234
+[2021-05-31 18:36:45,820] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->form > button > span
+[2021-05-31 18:36:45,942] [Base.py:Methond:click(153)] [INFO]:  开始对('css selector', 'form > button > span')元素  [点击]
+[2021-05-31 18:36:46,134] [Base.py:Methond:openUrl(184)] [INFO]:  打开网址：https://latest-test-oxpp.laoyuegou.com/#/chatroom/roomlist 
+[2021-05-31 18:36:47,351] [Base.py:Methond:findElement(51)] [DEBUG]:  定位元素信息成功：定位方式->css selector, value值->div.el-col.el-col-16 > div > button.el-button.el-button--primary.el-button--medium > span

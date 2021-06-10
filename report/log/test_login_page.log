@@ -1,0 +1,10 @@
+[2021-05-28 17:58:48,415] [test_login_page.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 17:58:49,682] [test_login_page.py:Methond:test_loginBusiness(32)] [INFO]:  Testcase - > Test PASS !
+[2021-05-28 17:59:50,948] [test_login_page.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 17:59:52,197] [test_login_page.py:Methond:test_loginBusiness(32)] [INFO]:  Testcase - > Test PASS !
+[2021-05-28 18:04:05,362] [test_login_page.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 18:04:06,536] [test_login_page.py:Methond:test_loginBusiness(32)] [INFO]:  Testcase - > Test PASS !
+[2021-05-28 18:05:57,330] [test_login_page.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 18:05:58,754] [test_login_page.py:Methond:test_loginBusiness(32)] [INFO]:  Testcase - > Test PASS !
+[2021-05-28 18:08:44,929] [test_login_page.py:Methond:test_loginBusiness(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-28 18:08:46,355] [test_login_page.py:Methond:test_loginBusiness(32)] [INFO]:  Testcase - > Test PASS !

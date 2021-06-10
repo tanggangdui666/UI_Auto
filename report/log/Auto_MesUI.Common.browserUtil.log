@@ -1,0 +1,10 @@
+[2021-05-31 17:05:36,816] [browserUtil.py:Methond:open_browser(29)] [DEBUG]:  Starting Chrome browser
+[2021-05-31 17:05:37,131] [browserUtil.py:Methond:open_browser(31)] [DEBUG]:  Maximize the current window
+[2021-05-31 18:04:42,621] [browserUtil.py:Methond:open_browser(29)] [DEBUG]:  Starting Chrome browser
+[2021-05-31 18:04:42,769] [browserUtil.py:Methond:open_browser(31)] [DEBUG]:  Maximize the current window
+[2021-05-31 18:05:14,094] [browserUtil.py:Methond:open_browser(29)] [DEBUG]:  Starting Chrome browser
+[2021-05-31 18:05:14,267] [browserUtil.py:Methond:open_browser(31)] [DEBUG]:  Maximize the current window
+[2021-05-31 18:36:18,696] [browserUtil.py:Methond:open_browser(29)] [DEBUG]:  Starting Chrome browser
+[2021-05-31 18:36:18,849] [browserUtil.py:Methond:open_browser(31)] [DEBUG]:  Maximize the current window
+[2021-05-31 18:36:43,616] [browserUtil.py:Methond:open_browser(29)] [DEBUG]:  Starting Chrome browser
+[2021-05-31 18:36:43,771] [browserUtil.py:Methond:open_browser(31)] [DEBUG]:  Maximize the current window

@@ -1,0 +1,11 @@
+[2021-05-31 17:05:46,353] [test_room_list_page.py:Methond:test_open_room_list_page(29)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-31 17:05:46,397] [test_room_list_page.py:Methond:test_open_room_list_page(32)] [INFO]:  Testcase - > Test PASS !
+[2021-05-31 18:05:10,732] [test_room_list_page.py:Methond:test_create_chatroom(47)] [INFO]:  Testcase - > Test FAIL !
+[2021-05-31 18:05:10,734] [test_room_list_page.py:Methond:test_create_chatroom(48)] [ERROR]:  断言失败，可能原因：Message: 
+
+[2021-05-31 18:05:18,842] [test_room_list_page.py:Methond:test_open_room_list_page(30)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-31 18:05:20,122] [test_room_list_page.py:Methond:test_open_room_list_page(33)] [INFO]:  Testcase - > Test PASS !
+[2021-05-31 18:36:40,517] [test_room_list_page.py:Methond:test_create_chatroom(42)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-31 18:36:40,521] [test_room_list_page.py:Methond:test_create_chatroom(45)] [INFO]:  Testcase - > Test PASS !
+[2021-05-31 18:36:46,134] [test_room_list_page.py:Methond:test_open_room_list_page(30)] [INFO]:  Testcase - > 开始检验检查点
+[2021-05-31 18:36:47,352] [test_room_list_page.py:Methond:test_open_room_list_page(33)] [INFO]:  Testcase - > Test PASS !
