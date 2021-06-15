@@ -20,6 +20,25 @@ screenName = os.path.join(screenPath, "%s.png" % nowtime)
 # borwser.ini文件路径
 bsConfing = os.path.join(projectPath, "Config", "browser.ini")
 
+# 礼物素材参数
+name = "ssm"
+img1 = "/Users/lyg/Desktop/material/{0}/{0}1.png".format(name)
+img2 = "/Users/lyg/Desktop/material/{0}/{0}2.png".format(name)
+img3 = "/Users/lyg/Desktop/material/{0}/{0}3.png".format(name)
+img = "/Users/lyg/Desktop/material/{0}/{0}.png".format(name)
+app_id = "捞月狗"
+gift_id = 100007
+gift_name = "上传图片测试7"
+gift_describe = "新礼物配置"
+gift_explain = "测试"
+value_type = "狗粮"  #狗粮 无价值 碎片
+value_gl = 999
+gift_time = 90
+gift_grade = "普通礼物" #普通礼物 全屏礼物
+gift_sort = 1
+gift_type = "面板礼物" #面板礼物 背包 全部
+
+
 
 # email参数
 sender = 'ggboytgg@163.com'
@@ -54,3 +73,4 @@ if __name__ == '__main__':
 
     nowtime = time.strftime("%Y%m%d_%H_%M_%S", time.localtime())
     print(screenName)
+    print(img1,img,img2,img3)

@@ -12,6 +12,9 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.select import Select
 import Config.config as gc
 from Common.logCmd import LogHandler
+import pyperclip
+from pykeyboard import PyKeyboard
+from pymouse import PyMouse
 
 
 log = LogHandler(__name__)
@@ -145,6 +148,36 @@ class Base(object):
             element.clear()
         element.send_keys(text)
         log.info('开始对%s元素 [输入文本]：%s'%(locator,text))
+
+    def sendKey(self, locator,x,is_clear=False):
+        '''选择下拉框的第x个选项 is_clear默认为False，不清空输入框'''
+        element = self.findElement(locator)
+        if is_clear:
+            element.clear()
+        element.send_keys(Keys.DOWN*x,Keys.ENTER)
+        log.info('开始对{0}元素进行下拉回车操作'.format(locator))
+
+    def upload_file(self, locator, file):
+        '''上传文件或者图片'''
+        self.click(locator)
+        k = PyKeyboard()
+        m = PyMouse()
+        k.press_keys(['Command', 'Shift', 'G'])
+        x_dim, y_dim = m.screen_size()
+        m.click(x_dim // 2, y_dim // 2, 1)
+        # filepath = '/'
+        # # 复制文件路径开头的斜杠/
+        # pyperclip.copy(filepath)
+        # # 粘贴斜杠/
+        # k.press_keys(['Command', 'V'])
+        # 输入文件全路径进去
+        k.type_string(file)
+        k.tab_key(k.enter_key)
+        time.sleep(2)
+        k.tab_key(k.enter_key)
+        time.sleep(2)
+        log.info('开始对{0}元素进行上传文件操作'.format(locator))
+
 
     def click(self, locator):
         '''点击元素'''

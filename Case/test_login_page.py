@@ -21,7 +21,6 @@ class Test_LoginPage(unittest.TestCase):
     # @classmethod
     # def tearDownClass(cls):
     #     cls.driver.quit()
-    @unittest.skip
     def test_loginBusiness(self):
         '''登录操作测试用例'''
         try:
